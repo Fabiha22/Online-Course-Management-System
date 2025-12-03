@@ -63,15 +63,20 @@ Set Quiz Benchmarks
 Set Time Requirements
 
 **How to Run the Project**
+
 **Install Backend Dependencies**
+
 cd backend
+
 npm install
 
 **Run Server**
 npm start
 
 **Start Frontend (Static/React)**
+
 cd frontend
+
 npm start
 
 **Database Setup**
